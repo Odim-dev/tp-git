@@ -1,2 +1,3 @@
 Nouvelle fonctionnalité git add fichier.txt
 Nouvelle fonctionnalité
+Nouvelle fonctionnalité Y
